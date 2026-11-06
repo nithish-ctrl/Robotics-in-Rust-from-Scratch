@@ -2,23 +2,27 @@
 
 ## Table of Contents 
 1. Introduction to robotics
-2. Kinematics
-3. 
-4. 
-5. Velocity and Static Forces
+2. Spatial Descriptions and transformations
+3. Manipulator Kinematics 
+4. Inverse manipulator kinematics
+5. Jacobians : Velocity and Static Forces
 6. Motion Planning
 7. Trajectory Planning 
 8. Manipulator Dynamics
+----------------------------------------
 
 ### Introduction to Robotics 
 
 
-### Kinematics 
+### Spatial Decription and transformations 
 
 
-### Inverse Kinematics
+### Manipulator Kinematics
 
-### Velocity and Static Forces
+### Inverse manipulator kinematics
+
+
+### Jacobians : Velocity and Static Forces
 
 ### Motion Planning
 
